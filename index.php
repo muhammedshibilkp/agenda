@@ -245,7 +245,7 @@
                 <i class="bi bi-file-earmark-text icon"></i>
                 <h5 class="card-title">അജണ്ടകൾ</h5>
                 <p class="card-description">ഈ ആഴ്ചയുടെ ചർച്ചകൾ .</p>
-                <a href="view_agenda.php" class="btn btn-primary">View</a>
+                <a href="https://google.com" class="btn btn-primary">View</a>
               </div>
             </div>
           </div>
